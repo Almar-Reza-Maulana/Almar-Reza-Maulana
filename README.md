@@ -1,4 +1,4 @@
-![Almar-Reza-Maulana](https://github.com/Almar-Reza-Maulana/Almar-Reza-Maulana/blob/main/github-header-image.png)
+![Almar-Reza-Maulana](https://github.com/Almar-Reza-Maulana/Almar-Reza-Maulana/blob/main/github-header-image-new%20reza.png)
 
 <!--
 **Almar-Reza-Maulana/Almar-Reza-Maulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +37,5 @@ hobbies: ["Gaming","Cinema","Badminton","Gym"]
 
 ### 🚀 Some Tools I Have Used and Learned
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"alt="vscode" width="45" height="45" />
-<img src="https://github.com/Almar-Reza-Maulana/Almar-Reza-Maulana/blob/main/autocad-icon.svg" lt="autocad" width="45" height="45" />
