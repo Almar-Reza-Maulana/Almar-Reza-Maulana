@@ -16,4 +16,18 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Python
-🔭 I’m currently working on Mining Engineer
+
+#### A Little Bit About Me and My Interest
+
+```yaml
+*name: Almar_Reza_Maulana
+located_in: Jambi, Indonesia
+education: ["Bachelor in mining engineering"]
+
+fields_of_interests:
+  ["Data Science","AI engineer","Machine Learning"]
+
+currently_learning: ["Python"]
+2025 Goals: ["Create 10+ Projects and learn at least 3-6 new Technologies."]
+hobbies: ["Gaming","Cinema","Badminton","Gym","Comedy"]
+```
