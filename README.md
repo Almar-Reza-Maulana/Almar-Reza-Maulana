@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 #### 🎯 A Little Bit About Me and My Interest
 
 ```yaml
-*name: Almar_Reza_Maulana
+name: Almar_Reza_Maulana
 located_in: Jambi, Indonesia
 education: ["Bachelor in mining engineering"]
 
-fields_of_interests: ["Data Science","AI engineer","Machine Learning"]
+fields_of_interests: ["Data Science", "AI engineer", "Machine Learning"]
 
-currently_learning: ["Python","Vscode"]
+currently_learning: ["Python", "Vscode"]
 2025 Goals: ["Create 10+ Projects and learn at least 3-6 new Technologies."]
-hobbies: ["Gaming","Cinema","Badminton","Gym"]
+hobbies: ["Gaming", "Cinema", "Badminton", "Gym"]
 ```
 
 ---
