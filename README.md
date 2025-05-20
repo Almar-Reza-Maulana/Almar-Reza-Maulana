@@ -1,4 +1,4 @@
-## Hello Everyone! I'm Almar Reza Maulana 👋
+
 
 ![Almar-Reza-Maulana](https://github.com/Almar-Reza-Maulana/Almar-Reza-Maulana/blob/main/github-header-image.png)
 
