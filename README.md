@@ -1,6 +1,6 @@
 ## Hello Everyone! I'm Almar Reza Maulana 👋
 
-![Almar-Reza-Maulana](img/github-header-image.png)
+![Almar-Reza-Maulana](https://github.com/Almar-Reza-Maulana/Almar-Reza-Maulana/blob/main/github-header-image.png)
 
 <!--
 **Almar-Reza-Maulana/Almar-Reza-Maulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
