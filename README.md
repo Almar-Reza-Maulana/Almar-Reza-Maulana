@@ -1,5 +1,3 @@
-## Hello Everyone! I'm Almar Reza Maulana 👋
-
 ![Almar-Reza-Maulana](https://github.com/Almar-Reza-Maulana/Almar-Reza-Maulana/blob/main/github-header-image.png)
 
 <!--
@@ -17,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--🌱 I’m currently learning Python
--🔭 I’m currently working on Mining Engineer
-
-##### SKILLS
+🌱 I’m currently learning Python
+🔭 I’m currently working on Mining Engineer
