@@ -26,7 +26,7 @@ education: "Bachelor in mining engineering"
 
 fields_of_interests: ("Data Science \nAI engineer \nMachine Learning")
 
-currently_learning: ["Python & Vscode"]
+currently_learning: ["Python, Anaconda, VSCode, Git, PostgreSQL, Dbeaver"]
 2025 Goals: ["Create 10+ Projects and learn at least 3-6 new Technologies."]
 hobbies: ["Gaming, Cinema, Badminton, Gym"]
 ```
