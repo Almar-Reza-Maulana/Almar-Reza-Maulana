@@ -24,7 +24,7 @@ name: "Almar Reza Maulana"
 located_in: "Jambi, Indonesia"
 education: "Bachelor in mining engineering"
 
-fields_of_interests: ("Data Science \nAI engineer \nMachine Learning")
+fields_of_interests: ("Data Analyst")
 
 currently_learning: ["Python, Anaconda, VSCode, Git, PostgreSQL, Dbeaver"]
 2025 Goals: ["Create 10+ Projects and learn at least 3-6 new Technologies."]
